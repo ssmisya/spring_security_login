@@ -280,7 +280,7 @@ public class UserRole {
                     "abc@somemail.com",
                     "fdu",
                     "China",
-                    "ROLE_Administer"
+                    "Administer"
             );
             //对密码进行加密
             user.encryptPassword(16);
